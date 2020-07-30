@@ -1299,13 +1299,52 @@ a.site-button{
         visibility: visible !important;
 }
 
+.primblackbutton {
+  padding: 15px 25px;
+  text-transform: capitalize;
+  background: black !important;
+  border-radius: 5px;
+  color: white;
+  box-shadow: none;
+  border: 0px;
+  transition: all .3s ease;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+}
+
+.primblackbutton:hover {
+  background: #ffffff !important;
+  color: #000000;
+  transition: all .3s ease;
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+}
 
 
+.specssec {
+  background: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 100%;
+  
+}
 
+.specssec h2{
+  padding-bottom: 10px;
+  margin-left: 20px;
+}
 
+.specssec p {
+  margin-left: 20px;
+}
 
-
-
+.separator {
+  border-top: 1px solid black;
+  opacity: 0.1;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 
 
 
