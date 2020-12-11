@@ -276,6 +276,12 @@ input:-webkit-autofill {
     background-size: cover;
 }
 
+.black-home-content {
+  background: url(/images/imagebullet.png) 10px !important;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
 .home-content{
    display: table-cell;
    vertical-align: middle;
