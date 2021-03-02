@@ -1263,6 +1263,10 @@ a.site-button{
     .diag .blog{
         padding-bottom: 60px;
     }
+    .button-down-x {
+  
+      display: none;
+  }
     
 }
 
@@ -1273,6 +1277,8 @@ a.site-button{
  .nav-menu{
         display: block!important;
     }
+  
+
     
 }
 
